@@ -2,7 +2,7 @@
 Exploratory data analysis of global COVID-19 confirmed, death, and recovery trends using Python (Pandas, Matplotlib). Includes time-series reshaping, country-specific plots, and reproducible Jupyter Notebook.
 # COVID-19 Global Data Analysis
 
-**Author:** Your Name  
+**Author:** Persia Cooper 
 **Date:** August 10, 2025  
 
 This project analyzes global COVID-19 data from the Johns Hopkins University CSSE dataset.  
